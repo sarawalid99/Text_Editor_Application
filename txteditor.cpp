@@ -3,10 +3,8 @@
 #include <string.h>
 #include <fstream>
 #include <conio.h>
-#include "functions-header.h"
+#include "txteditor.h"
 using namespace std;
-fstream file;
-string file_name, file_tmp = "";
 int flag1;
 int flag2;
 
@@ -187,7 +185,7 @@ void merging(){
 }
 
 // a function to count how many lines we have at the file
-void countlines(){
+void count_lines(){
     int counter = 0;
     char character;
     file.open(file_name+".txt", ios::in);
@@ -207,7 +205,7 @@ void countlines(){
 }
 
 // a function to count how many words we have at the file
-void countwords(){
+void count_words(){
 
    int counter = 0;
     string word;
@@ -224,7 +222,7 @@ void countwords(){
 
 
 // a function to count how many characters we have at the file
-void countchar(){
+void count_char(){
     int counter = 0;
     char character;
     file.open(file_name+".txt", ios::in);

@@ -1,0 +1,3 @@
+C:/Users/saraw/CLionProjects/Text_Editor_App/cmake-build-debug/CMakeFiles/Text_Editor_App.dir
+C:/Users/saraw/CLionProjects/Text_Editor_App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saraw/CLionProjects/Text_Editor_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir

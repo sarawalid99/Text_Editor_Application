@@ -1,12 +1,10 @@
-// Purpose : program for displaying and manipulating text files, displays a menu with the list of options
 #include <iostream>
 #include <cstring>
 #include <string.h>
 #include <fstream>
 #include <conio.h>
-#include "functions-header.h"
-//fstream file;
-//string file_name, file_tmp = "";
+#include "txteditor.h"
+
 using namespace std;
 int main(){
 string text;
@@ -79,15 +77,15 @@ while(!file.eof() && !file.fail())
     }
       else if (option == 7)
     {
-          countwords();
+          count_words();
     }
        else if (option == 8)
     {
-        countchar();
+        count_char();
     }
       else if (option == 9)
     {
-          countlines();
+          count_lines();
     }
       else if (option == 10)
     {
