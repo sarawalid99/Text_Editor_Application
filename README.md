@@ -14,19 +14,33 @@ The following operations are available in the text editor application:
 1- Add new text to the end of the file: Appends text to an existing file.
 
 2- Display the content of the file: Shows the content of the file on the console screen.
+
 3- Empty the file: Clears the content of the file.
+
 4- Encrypt the file content: Encrypts the content of the file.
+
 5- Decrypt the file content: Decrypts the encrypted content of the file.
+
 6- Merge another file: Merges the content of another file with the current file.
+
 7- Count the number of words in the file: Counts the number of words in the file.
+
 8- Count the number of characters in the file: Counts the number of characters in the file.
+
 9- Count the number of lines in the file: Counts the number of lines in the file.
+
 10- Search for a word in the file: Searches for a specific word in the file.
+
 11- Count the number of times a word exists in the file: Counts the number of occurrences of a word in the file.
+
 12- Turn the file content to uppercase: Converts all letters in the file to uppercase.
+
 13- Turn the file content to lowercase: Converts all letters in the file to lowercase.
+
 14- Turn file content to 1st caps: Capitalizes the first character of each word in the file.
+
 15- Save: Saves the changes made to the file.
+
 16- Exit: Exits the application.
 
 Dependencies: 
