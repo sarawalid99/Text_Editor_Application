@@ -12,6 +12,7 @@ Available Operations:
 The following operations are available in the text editor application:
 
 1- Add new text to the end of the file: Appends text to an existing file.
+
 2- Display the content of the file: Shows the content of the file on the console screen.
 3- Empty the file: Clears the content of the file.
 4- Encrypt the file content: Encrypts the content of the file.
